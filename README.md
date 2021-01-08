@@ -4,43 +4,39 @@
 
 [element UI](https://element.eleme.cn/#/zh-CN/component/installation)
 
-## 一、线性表
+## 一、数据结构
 
-### 1.数组实现
+### 线性表
 
-### 2.链表
+* 顺序表
+* 链表
 
-## 二、栈与队列
-### 1. 栈
+### 栈和队列
 
-### 2.队列
+* 栈
+* 队列
 
-## 三、树与二叉树
+### 树
 
-### 1.树
+*二叉树
+*大根堆
+*小根堆
 
-### 2.堆
-* 大根堆
+## 二、算法
 
-* 小根堆
+### 树
 
+* 前序遍历
+* 中序遍历
+* 后序遍历
 * 堆排序
 
-### 3.二叉查找树
+### 图
 
-### 4.平衡二叉树
-
-### 5.红黑树
-
-## 四、图
-
-### 1.遍历 
-* 深度优先 
-* 广度优先
-
-### 2.最短路径
+* 深度优先
 * 迪杰斯特拉算法
 
 ## 五、示例
 
-[数据结构算法示例讲解](https://www.cnblogs.com/wanghuaijun/p/7302303.html)
+https://www.cnblogs.com/wanghuaijun/p/7302303.html
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
